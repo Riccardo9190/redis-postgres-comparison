@@ -19,4 +19,3 @@ While Redis performs the search only once and caches the data, PostgreSQL repeat
 - Node.js
 - PostgreSQL
 - Redis
-
